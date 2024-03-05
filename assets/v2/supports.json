@@ -11,6 +11,7 @@
   "cosmos",
   "crescent",
   "cryptoorg",
+  "crypto-org",
   "cudos",
   "desmos",
   "emoney",
@@ -23,6 +24,7 @@
   "juno",
   "kava",
   "kichain",
+  "ki-chain",
   "konstellation",
   "kujira",
   "likecoin",
@@ -30,7 +32,7 @@
   "medibloc",
   "nyx",
   "omniflix",
-  "onomy",
+  "onomy-protocol",
   "osmosis",
   "passage",
   "persistence",
@@ -45,8 +47,10 @@
   "stafi",
   "stargaze",
   "starname",
+  "station",
   "stride",
   "teritori",
   "tgrade",
-  "umee"
+  "umee",
+  "xpla"
 ]
